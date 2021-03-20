@@ -6,4 +6,4 @@ This repository is a project from [Unity's Design, Develop, and Deploy for VR](h
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RnE2dFni1_8/0.jpg)](h17*5ttps://www.youtube.com/watch?v=RnE2dFni1_8)
+[![Demo Video](https://img.youtube.com/vi/RnE2dFni1_8/0.jpg)](https://www.youtube.com/watch?v=RnE2dFni1_8)
